@@ -3,9 +3,15 @@
 
 ### NFT Information:
 ERC-721 Token Name: "LianaGNFT"
+
 ERC-721 Token Symbol: "LGNFT"
+
+Rinkeby Token Address: 0xFddE660cFb5b4cBA7C2a4f1d85B59D4c1C706B7B
+
 Truffle v.5.4.32
+
 Open Zeppelin-Solidity v.4.5.0
+
 Solc: ^0.8.0
 
 
