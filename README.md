@@ -9,7 +9,7 @@ Open Zeppelin-Solidity v.4.5.0
 Solc: ^0.8.0
 
 
-## IMPORTANT NOTE FROM STUDENT:
+## IMPORTANT NOTE:
 I decided to use the latest Open-zeppelin version and rework the lesson code around that. Therefore, I had to slightly change the ERC721.sol interface file by adding an extra function (which is allowed in ERC-721), and also by making sure there were 3 arguments in its constructor (name, symbol, tokenId). Here is the added function (to approve those who want to buy the owner's token to transfer the token):
 
     function approveToBuyTrade(address _to, uint256 _tokenId) public virtual{
